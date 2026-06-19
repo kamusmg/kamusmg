@@ -3,7 +3,7 @@
      ╚═══════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://samuelkamus.pages.dev">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d00,50:ff8a1e,100:ffc861&height=200&section=header&text=Samuel%20Kamus&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=O%20designer%20que%20ensina%20m%C3%A1quinas%20a%20criar&descSize=18&descAlignY=58" alt="Samuel Kamus" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d00,50:ff8a1e,100:ffc861&height=200&section=header&text=KamusMG&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=O%20designer%20que%20ensina%20m%C3%A1quinas%20a%20criar&descSize=18&descAlignY=58" alt="Samuel Kamus" />
 </a>
 
 <div align="center">
@@ -18,8 +18,6 @@
 
 ---
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="fogo" />
-
 ### 🔥 A carta, em uma linha
 
 Mais de **vinte anos** vivendo de design — o olho treinado em forma e função.
@@ -29,8 +27,6 @@ Hoje construo **sistemas de IA que rodam sozinhos** — um agente que vive dia e
 no meu servidor, uma voz que comanda minha live, um robô que opera cripto.
 
 > *"O que importa não é a ferramenta cara — é o trabalho bem feito."*
-
-<br clear="right" />
 
 ---
 
@@ -98,8 +94,6 @@ Do roteiro ao post animado — local e de graça. Personagem consistente, parall
 
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamusmg&bg_color=0b0b0d&color=ff8a1e&line=ff2d00&point=ffc861&area=true&area_color=ff2d00&hide_border=true" alt="activity" />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kamusmg&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4&title_color=ff8a1e)
-
 </div>
 
 <!-- 🐍 a cobra come o gráfico de contribuições (gerada pela Action) -->
@@ -116,5 +110,3 @@ Do roteiro ao post animado — local e de graça. Personagem consistente, parall
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc861,50:ff8a1e,100:ff2d00&height=120&section=footer" alt="" />
 
 </div>
-
-<!-- web-flow touch -->
