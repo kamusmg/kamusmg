@@ -98,7 +98,7 @@ Do roteiro ao post animado — local e de graça. Personagem consistente, parall
 
 <!-- 🐍 a cobra come o gráfico de contribuições (gerada pela Action) -->
 <div align="center">
-  <img width="92%" src="https://raw.githubusercontent.com/kamusmg/kamusmg/output/snake.svg" alt="snake" />
+  <img width="92%" src="https://raw.githubusercontent.com/kamusmg/kamusmg/output/snake.svg?v=fire" alt="snake" />
 </div>
 
 ---
