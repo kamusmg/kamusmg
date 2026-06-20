@@ -11,7 +11,6 @@
 [![Typing](https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&duration=2600&pause=900&color=FF6A1A&center=true&vCenter=true&width=820&height=60&lines=Designer+h%C3%A1+20%2B+anos;Em+2023+aprendi+a+programar+pra+trazer+IA+pro+meu+mundo;Construo+sistemas+que+funcionam+sozinhos;Um+agente+vivo+24%2F7+%E2%80%94+de+gra%C3%A7a;Nada+se+cria.+Tudo+se+copia...+e+se+melhora)](https://samuelkamus.pages.dev)
 
 <a href="https://samuelkamus.pages.dev"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-samuelkamus.pages.dev-ff4d1a?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0b0b0d" alt="Portfólio" /></a>
-<a href="mailto:samuelkamus2@gmail.com"><img src="https://img.shields.io/badge/Email-falar%20comigo-ff8a1e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b0d" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=kamusmg&color=ff6a1a&style=for-the-badge&label=VISITAS&labelColor=0b0b0d" alt="views" />
 
 </div>
