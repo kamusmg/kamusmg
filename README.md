@@ -2,7 +2,7 @@
      🔥 SAMUEL KAMUS · FORGED IN FIRE · AUTONOMOUS SYSTEMS
      ╚═══════════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d00,50:ff8a1e,100:ffc861&height=200&section=header&text=KamusMG&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Autonomous%20AI%20Architect%20%C2%B7%20Real-Time%20Systems%20%C2%B7%20Zero-Latency%20Engineering&descSize=18&descAlignY=58" alt="Samuel Kamus" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d00,50:ff8a1e,100:ffc861&height=200&section=header&text=KamusMG&fontSize=72&fontColor=0d1117&animation=fadeIn&fontAlignY=36&desc=Autonomous%20AI%20Architect%20%C2%B7%20Real-Time%20Systems%20%C2%B7%20Zero-Latency%20Engineering&descSize=18&descAlignY=58" alt="Samuel Kamus" />
 
 <div align="center">
 
