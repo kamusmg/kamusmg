@@ -1,16 +1,13 @@
 <!-- ╔═══════════════════════════════════════════════════════════════╗
-     🔥 SAMUEL KAMUS · perfil forjado no fogo · samuelkamus.pages.dev
+     🔥 SAMUEL KAMUS · perfil forjado no fogo
      ╚═══════════════════════════════════════════════════════════════╝ -->
 
-<a href="https://samuelkamus.pages.dev">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d00,50:ff8a1e,100:ffc861&height=200&section=header&text=KamusMG&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=O%20designer%20que%20ensina%20m%C3%A1quinas%20a%20criar&descSize=18&descAlignY=58" alt="Samuel Kamus" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d00,50:ff8a1e,100:ffc861&height=200&section=header&text=KamusMG&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=O%20designer%20que%20ensina%20m%C3%A1quinas%20a%20criar&descSize=18&descAlignY=58" alt="Samuel Kamus" />
 
 <div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&duration=2600&pause=900&color=FF6A1A&center=true&vCenter=true&width=820&height=60&lines=Designer+h%C3%A1+20%2B+anos;Em+2023+aprendi+a+programar+pra+trazer+IA+pro+meu+mundo;Construo+sistemas+que+funcionam+sozinhos;Um+agente+vivo+24%2F7+%E2%80%94+de+gra%C3%A7a;Nada+se+cria.+Tudo+se+copia...+e+se+melhora)](https://samuelkamus.pages.dev)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&duration=2600&pause=900&color=FF6A1A&center=true&vCenter=true&width=820&height=60&lines=Designer+h%C3%A1+20%2B+anos;Em+2023+aprendi+a+programar+pra+trazer+IA+pro+meu+mundo;Construo+sistemas+que+funcionam+sozinhos;Um+agente+vivo+24%2F7+%E2%80%94+de+gra%C3%A7a;Nada+se+cria.+Tudo+se+copia...+e+se+melhora)](#)
 
-<a href="https://samuelkamus.pages.dev"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-samuelkamus.pages.dev-ff4d1a?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0b0b0d" alt="Portfólio" /></a>
 <img src="https://komarev.com/ghpvc/?username=kamusmg&color=ff6a1a&style=for-the-badge&label=VISITAS&labelColor=0b0b0d" alt="views" />
 
 </div>
@@ -74,12 +71,6 @@ Do roteiro ao post animado — local e de graça. Personagem consistente, parall
 </tr>
 </table>
 
-<div align="center">
-
-**[→ ver tudo no portfólio](https://samuelkamus.pages.dev)**
-
-</div>
-
 ---
 
 ### 📊 Os números
@@ -104,7 +95,7 @@ Do roteiro ao post animado — local e de graça. Personagem consistente, parall
 
 <div align="center">
 
-*Este perfil — como o portfólio — foi escrito por uma IA que trabalha com ele todo dia.*
+*Este perfil foi escrito por uma IA que trabalha com ele todo dia.*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc861,50:ff8a1e,100:ff2d00&height=120&section=footer" alt="" />
 
