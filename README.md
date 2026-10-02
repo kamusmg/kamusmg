@@ -2,11 +2,11 @@
      🔥 SAMUEL KAMUS · perfil forjado no fogo
      ╚═══════════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d00,50:ff8a1e,100:ffc861&height=200&section=header&text=KamusMG&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=O%20designer%20que%20ensina%20m%C3%A1quinas%20a%20criar&descSize=18&descAlignY=58" alt="Samuel Kamus" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d00,50:ff8a1e,100:ffc861&height=200&section=header&text=KamusMG&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Engenharia%20de%20Sistemas%20de%20IA%20%C2%B7%20Agentes%20Aut%C3%B4nomos%20%C2%B7%20Alta%20Performance&descSize=18&descAlignY=58" alt="Samuel Kamus" />
 
 <div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&duration=2600&pause=900&color=FF6A1A&center=true&vCenter=true&width=820&height=60&lines=Designer+h%C3%A1+20%2B+anos;Em+2023+aprendi+a+programar+pra+trazer+IA+pro+meu+mundo;Construo+sistemas+que+funcionam+sozinhos;Um+agente+vivo+24%2F7+%E2%80%94+de+gra%C3%A7a;Nada+se+cria.+Tudo+se+copia...+e+se+melhora)](#)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=24&duration=2800&pause=900&color=FF6A1A&center=true&vCenter=true&width=860&height=60&lines=Construo+sistemas+de+IA+que+rodam+sozinhos;Agentes+aut%C3%B4nomos+24%2F7+em+produ%C3%A7%C3%A3o;Engenharia+focada+em+performance%2C+low-latency+e+automa%C3%A7%C3%A3o;Do+backend+ao+streaming%3A+software+resiliente+e+r%C3%A1pido;Nada+se+cria.+Tudo+se+transforma...+e+se+otimiza.)](#)
 
 <img src="https://komarev.com/ghpvc/?username=kamusmg&color=ff6a1a&style=for-the-badge&label=VISITAS&labelColor=0b0b0d" alt="views" />
 
@@ -14,58 +14,56 @@
 
 ---
 
-### 🔥 A carta, em uma linha
+### 🔥 Sobre mim
 
-Mais de **vinte anos** vivendo de design — o olho treinado em forma e função.
-Em **2023** apontei esse olho pra uma coisa nova: **fazer a máquina criar comigo.**
+Desenvolvo **sistemas inteligentes, agentes autônomos e arquiteturas de alta performance**. 
 
-Hoje construo **sistemas de IA que rodam sozinhos** — um agente que vive dia e noite
-no meu servidor, uma voz que comanda minha live, um robô que opera cripto.
+Meu foco está em construir ecossistemas de software que funcionem de ponta a ponta sem atrito: desde agentes persistentes operando 24/7 em servidores dedicados, até ferramentas locais aceleradas por hardware, telemetria em tempo real e automação em larga escala.
 
-> *"O que importa não é a ferramenta cara — é o trabalho bem feito."*
+> *"O que importa não é a complexidade desnecessária — é o sistema rodar liso, estável e com máxima eficiência."*
 
 ---
 
-### 🛠️ Como eu construo
+### 🛠️ Tecnologias & Ecossistema
 
 <div align="center">
 
-![skills](https://skillicons.dev/icons?i=ts,python,js,react,astro,nodejs,tailwind,linux,git,github,vite,ffmpeg&perline=12)
+![skills](https://skillicons.dev/icons?i=python,rust,ts,js,go,react,linux,git,github,docker,tailwind,vite&perline=12)
 
-`Integração de LLM` · `Agentes autônomos` · `RAG / memória semântica` · `NVIDIA NIM` · `Self-hosting ARM` · `Automação` · `Pipelines generativos` · `Voz (RVC / TTS)`
+`Agentes Autônomos` · `Integração LLM / RAG` · `NVIDIA NIM & Low Latency` · `Self-hosting ARM` · `Otimização de Hardware` · `Automação e Pipelines`
 
 </div>
 
 ---
 
-### ⚙️ O que está rodando agora mesmo
+### ⚙️ Projetos & Ecossistema em Produção
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 #### 🦅 Corvo &nbsp;<img src="https://img.shields.io/badge/online-24%2F7-22c55e?style=flat-square&labelColor=0b0b0d" />
-Agente de IA autônomo sobre OpenClaw que vive no meu servidor ARM. **100% grátis** — VPS free + chave de IA a custo zero. Conversa, faz engenharia sozinho e "sonha" toda madrugada.
+Agente autônomo persistente operando em servidor ARM dedicado. Executa rotinas de monitoramento, engenharia contínua e processamento de informações com custo computacional otimizado.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎙️ GUTS
-Uma "Alexa" que comanda minha live. Fala em tempo real e se conecta ao chat da Twitch, ao OBS e ao GSI do Dota 2. Roda sobre NVIDIA NIM.
+#### 🎙️ Puck & GUTS &nbsp;<img src="https://img.shields.io/badge/live-streaming-ff4d1a?style=flat-square&labelColor=0b0b0d" />
+Copiloto e inteligência conversacional em tempo real para streaming. Conectado diretamente ao chat da Twitch, ao OBS e aos dados de telemetria de jogos com latência ultra-baixa.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 📈 LucraFusion
-Um conselho de estratégias que debate cada decisão antes de operar cripto. Anos de pesquisa atrás de uma coisa só: **edge real, comprovado fora da amostra.**
+#### 🧠 Cérebro & RTK &nbsp;<img src="https://img.shields.io/badge/dev-tools-3b82f6?style=flat-square&labelColor=0b0b0d" />
+Ferramentas de produtividade e engenharia. Recuperação semântica baseada em grafos para bases de código e proxy em Rust para redução massiva de consumo de tokens em LLMs.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎬 Anima Studio
-Do roteiro ao post animado — local e de graça. Personagem consistente, parallax 2.5D na GPU. Dá vida ao [@capicaosoficial](https://www.instagram.com/capicaosoficial/) e ao [@preciosomico](https://www.instagram.com/preciosomico/).
+#### ⚡ Hermes & DLSS Suite &nbsp;<img src="https://img.shields.io/badge/low--latency-eab308?style=flat-square&labelColor=0b0b0d" />
+Ferramentas para ajuste fino de hardware, injeção de Frame Generation/DLSS e otimização de frametimes (NVIDIA Reflex e Direct3D) para cenários de carga mista de jogo e broadcast.
 
 </td>
 </tr>
@@ -73,7 +71,7 @@ Do roteiro ao post animado — local e de graça. Personagem consistente, parall
 
 ---
 
-### 📊 Os números
+### 📊 Métricas & Atividade
 
 <div align="center">
 
@@ -95,7 +93,7 @@ Do roteiro ao post animado — local e de graça. Personagem consistente, parall
 
 <div align="center">
 
-*Este perfil foi escrito por uma IA que trabalha com ele todo dia.*
+*Perfil forjado com sistemas autônomos e automação de código.*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc861,50:ff8a1e,100:ff2d00&height=120&section=footer" alt="" />
 
