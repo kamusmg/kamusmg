@@ -14,7 +14,7 @@
 
 ---
 
-### ⛩️ Principles & Vision
+### Philosophy & Vision
 
 > *"What defines a human? Memory? Mind? Or the ghost? If a machine can think, does it have a soul?"*  
 > — **Major Motoko Kusanagi** (*Ghost in the Shell*)
@@ -24,7 +24,7 @@
 
 ---
 
-### ⚡ Engineering Manifesto
+### Engineering Manifesto
 
 I engineer **autonomous AI ecosystems, low-latency telemetry pipelines, and resilient software architectures**. 
 
@@ -34,7 +34,7 @@ I don't build toys. I build production-grade engines designed for **minimal comp
 
 ---
 
-### 🛠️ Core Technology Stack
+### Core Technology Stack
 
 <div align="center">
 
@@ -47,13 +47,13 @@ I don't build toys. I build production-grade engines designed for **minimal comp
 
 ---
 
-### 🚀 Production Systems & Featured Architectures
+### Production Systems & Architectures
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🦅 Corvo · Autonomous Agent Engine
+#### Corvo · Autonomous Agent Engine
 <img src="https://img.shields.io/badge/status-active%2024%2F7-22c55e?style=flat-square&labelColor=0b0b0d" /> <img src="https://img.shields.io/badge/arch-ARM%20Cloud-ff6a1a?style=flat-square&labelColor=0b0b0d" />
 
 Autonomous AI entity running perpetually on isolated ARM cloud servers. Features self-healing background routines, automated code exploration, dynamic memory curation, and nocturnal synthesis loops with zero operational cost.
@@ -61,7 +61,7 @@ Autonomous AI entity running perpetually on isolated ARM cloud servers. Features
 </td>
 <td width="50%" valign="top">
 
-#### 🎙️ Puck & GUTS · Broadcast Copilot
+#### Puck & GUTS · Broadcast Copilot
 <img src="https://img.shields.io/badge/latency-sub--second-ff2d00?style=flat-square&labelColor=0b0b0d" /> <img src="https://img.shields.io/badge/engine-NVIDIA%20NIM-76b900?style=flat-square&labelColor=0b0b0d" />
 
 Sub-second real-time broadcast intelligence. Bi-directionally interfaced with Twitch chat WebSockets, OBS Studio, and game memory telemetry (Dota 2 GSI) to co-host live broadcasts with contextual voice synthesis.
@@ -71,7 +71,7 @@ Sub-second real-time broadcast intelligence. Bi-directionally interfaced with Tw
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 Cérebro Engine · Graph Code Intelligence
+#### Cérebro Engine · Graph Code Intelligence
 <img src="https://img.shields.io/badge/retrieval-AST%20Graph-3b82f6?style=flat-square&labelColor=0b0b0d" /> <img src="https://img.shields.io/badge/acceleration-Rust%20%28RTK%29-dea584?style=flat-square&labelColor=0b0b0d" />
 
 Graph-first codebase navigation engine. Replaces brute-force file context with AST dependency graphs, cross-language re-ranking, and Reciprocal Rank Fusion (RRF). Integrated with Rust-powered CLI token proxies (**RTK**) reducing LLM token consumption by 60–90%.
@@ -79,7 +79,7 @@ Graph-first codebase navigation engine. Replaces brute-force file context with A
 </td>
 <td width="50%" valign="top">
 
-#### 📈 LucraFusion · Quantitative Strategy Engine
+#### LucraFusion · Quantitative Strategy Engine
 <img src="https://img.shields.io/badge/domain-Quant%20Trading-eab308?style=flat-square&labelColor=0b0b0d" /> <img src="https://img.shields.io/badge/consensus-Multi--Agent-a855f7?style=flat-square&labelColor=0b0b0d" />
 
 Autonomous algorithmic trading framework for volatile markets. Employs a multi-agent adversarial debate council to stress-test and validate entry/exit hypotheses before executing orders, prioritizing strict out-of-sample edge.
@@ -89,7 +89,7 @@ Autonomous algorithmic trading framework for volatile markets. Employs a multi-a
 <tr>
 <td width="50%" valign="top">
 
-#### ⚡ Kothar · Frame Generation & Latency Suite
+#### Kothar · Frame Generation & Latency Suite
 <img src="https://img.shields.io/badge/stack-DirectX11%20%2F%20Reflex-76b900?style=flat-square&labelColor=0b0b0d" /> <img src="https://img.shields.io/badge/target-200%2B%20FPS-22c55e?style=flat-square&labelColor=0b0b0d" />
 
 Low-level performance framework and runtime manager. Automates official DLSS/Frame Generation DLL injection across heterogeneous game libraries, stabilizing frametimes and CPU draw calls under heavy simultaneous OBS streaming workloads.
@@ -97,7 +97,7 @@ Low-level performance framework and runtime manager. Automates official DLSS/Fra
 </td>
 <td width="50%" valign="top">
 
-#### 📓 NotebookLMCP · Model Context Protocol
+#### NotebookLMCP · Model Context Protocol
 <img src="https://img.shields.io/badge/protocol-MCP-06b6d4?style=flat-square&labelColor=0b0b0d" /> <img src="https://img.shields.io/badge/ecosystem-Claude%20%2F%20Cursor-ff8a1e?style=flat-square&labelColor=0b0b0d" />
 
 Open-source Model Context Protocol (MCP) bridge connecting terminal developer agents (Claude Code, Antigravity CLI, Cursor) with Google NotebookLM via persistent browser automation, bypassing rate constraints.
@@ -108,7 +108,7 @@ Open-source Model Context Protocol (MCP) bridge connecting terminal developer ag
 
 ---
 
-### 📊 Activity & Engineering Velocity
+### Engineering Velocity & Metrics
 
 <div align="center">
 
