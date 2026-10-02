@@ -117,8 +117,6 @@ Open-source Model Context Protocol (MCP) bridge connecting terminal developer ag
 
 <img width="80%" src="https://streak-stats.demolab.com?user=kamusmg&hide_border=true&background=0b0b0d&stroke=ff6a1a&ring=ff8a1e&fire=ff2d00&currStreakLabel=ffc861&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamusmg&bg_color=0b0b0d&color=ff8a1e&line=ff2d00&point=ffc861&area=true&area_color=ff2d00&hide_border=true" alt="activity" />
-
 </div>
 
 <!-- 🐍 Snake contribution animation -->
